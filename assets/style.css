@@ -1,0 +1,54 @@
+body {
+  margin: 10px;
+  background: url(../images/bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: "lucida grande",tahoma,verdana,arial,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif;
+  color: #FFFFFF;
+  text-align: center;
+}
+.social_btns {
+  text-align: left;
+  margin-bottom: 20px;
+}
+#logo_img {
+  width: 150px;
+}
+#logo {
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+#info {
+  font-size: 16px;
+  line-height: 30px;
+  margin-top: 40px;
+}
+.store_link {
+  margin: 70px;
+}
+#footer {
+  margin-top: 70px;
+  margin-bottom: 20px;
+}
+table.developer {
+  width: 70%;
+  margin:auto;
+  margin-top:30px;
+}
+table.developer td.photo {
+  width: 200px;
+}
+table.developer td {
+  border: none;
+  text-align: left;
+  padding-bottom: 40px;
+}
+.developer img {
+  width: 250px;
+  margin-right: 30px;
+}
+a {
+  color: inherit;
+}
