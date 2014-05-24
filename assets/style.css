@@ -33,7 +33,6 @@ body {
   margin-bottom: 20px;
 }
 table.developer {
-  width: 70%;
   margin:auto;
   margin-top:30px;
 }
@@ -57,4 +56,25 @@ a {
 }
 img.icon {
   width: 30px;
+}
+
+@media only screen and (max-width:700px) {
+
+}
+
+@media only screen and (max-width:700px) {
+  body, html {
+    margin: 0;
+    padding: 0;
+  }
+  table.developer tbody tr {
+      display: block;
+      margin-bottom: 1.5em;
+  }
+  table.developer tbody th,
+  table.developer tbody td {
+      display: list-item;
+      border: none;
+      list-style: none;
+  }
 }
