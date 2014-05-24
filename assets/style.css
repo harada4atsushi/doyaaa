@@ -49,6 +49,9 @@ table.developer td {
   width: 250px;
   margin-right: 30px;
 }
+.donusa {
+  width: 100px;
+}
 a {
   color: inherit;
 }
