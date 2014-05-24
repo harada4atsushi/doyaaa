@@ -1,1 +1,1 @@
-hello doyaaa
+<?php header("Location:index.html"); ?>
