@@ -7,6 +7,8 @@ http://www.doyaaa.com/
 アプリ  
 https://play.google.com/store/apps/details?id=com.doyaaa.autodoyaa.autodoyaa
 
+![screen_shot](/images/screen_shot.png)
+
 
 # ソース反映
 ```
