@@ -1,7 +1,12 @@
 doyaaa
 ======
 
-全自動ドヤァアプリ「Doyaaa」のWEBページ
+全自動ドヤァアプリ「Doyaaa」のWEBページ  
+http://www.doyaaa.com/
+
+アプリ  
+https://play.google.com/store/apps/details?id=com.doyaaa.autodoyaa.autodoyaa
+
 
 # ソース反映
 ```
