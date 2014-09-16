@@ -1,4 +1,4 @@
-doyaaa
+doyaaaaaaaaa
 ======
 
 全自動ドヤァアプリ「Doyaaa」のWEBページ  
